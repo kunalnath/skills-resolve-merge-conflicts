@@ -1,1 +1,3 @@
-References - creating conflict
+References - resolves conflict
+
+* octocat 1 😈
